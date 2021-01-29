@@ -1,5 +1,5 @@
 # Inventory Checks
-This is an Inventory Management System application created with JavaFX and Scene Builder with a GUI.
+This is a GUI- based Inventory Management desktop application created with following software: JDK 11, JavaFX SDK, and Scene Builder. The application was created using Java API libraries with the exception of the JavaFX SDK.
 ## User Stories
 
 The following **required** functionality is completed:
